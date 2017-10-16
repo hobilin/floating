@@ -1,0 +1,33 @@
+.contenedor {
+  float: right;
+}
+
+div {
+  width: 150px;
+  height: 150px;
+}
+
+#bb1 {
+  background-image: url(../IMG/bb1.jpg);
+  background-size: 100%;
+}
+
+#bb2 {
+  background-image: url(../IMG/bb2.jpg);
+  background-size: 100%;
+}
+
+#bb3 {
+  background-image: url(../IMG/bb3.jpg);
+  background-size: 100%;
+}
+
+#bb4 {
+  background-image: url(../IMG/bb4.jpeg);
+  background-size: 100%;
+}
+
+#bb5 {
+  background-image: url(../IMG/bb5.jpg);
+  background-size: 100%;
+}
